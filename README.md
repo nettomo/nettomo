@@ -35,6 +35,14 @@ Welcome to nettomo - a bento box for the internet!
 
 A: I guess that this concept is pretty unique and relatively unheard of, so I don't know of any singular term for it. But the best idea I've come up with is that nettomo is a 🍱 bento box for the internet. It comes with different features and elements to create a coherent package for us to use within our online communities, no matter how big or small. We aren't trying to be another space for people online to meetup. Instead, we hope that you find something useful on nettomo that encourages you to expand beyond whatever limitations your current platform has, whether it's a Discord server or a self-hosted phpBB instance.
 
+**Q: What problems are you trying to fix?**
+
+A: I don't think we're trying to solve any problems, per se. Instead, we're trying to bring the internet together :) and make it a better place for people to hang out. This means bridging the gap between different online communities, making it easier to get started with your ideas, enabling individuals and groups to build better online presences, fostering collaboration and cooperation, encouraging best practices, discouraging isolationism online (and promoting true relationships between different online communities) and providing an all-in-one package for users online. 
+
+**Q: Is nettomo just a set of different features?**
+
+A: Woah hold on. It's best to view our project as a coherent platform or digital space that you can adapt to your own needs. Which means if you don't want to use `xyz`, you don't have to use `xyz`! But, everything we build is designed to work together, both internally within the nettomo ecosystem and also with other platforms and software. 
+
 **Q: How much does nettomo cost to use?**
 
 A: 100% free and non-profit, always. If we ever decide to collect money, it'll go back into the project.
