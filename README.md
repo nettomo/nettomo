@@ -33,7 +33,7 @@ Welcome to nettomo - a bento box for the internet!
 
 **Q: Are you a social network? A VoIP platform? Another reddit? What *is* nettomo?**
 
-A: I guess that this concept is pretty unique and relatively unheard of, so I don't know of any singular term for it. But the best idea I've come up with is that nettomo is a 🍱bento box for the internet. It comes with different features and elements to create a coherent package for us to use within our online communities, no matter how big or small. We aren't trying to be another space for people online to meetup. Instead, we hope that you find something useful on nettomo that encourages you to expand beyond whatever limitations your current platform has, whether it's a Discord server or a self-hosted phpBB instance.
+A: I guess that this concept is pretty unique and relatively unheard of, so I don't know of any singular term for it. But the best idea I've come up with is that nettomo is a 🍱 bento box for the internet. It comes with different features and elements to create a coherent package for us to use within our online communities, no matter how big or small. We aren't trying to be another space for people online to meetup. Instead, we hope that you find something useful on nettomo that encourages you to expand beyond whatever limitations your current platform has, whether it's a Discord server or a self-hosted phpBB instance.
 
 **Q: How much does nettomo cost to use?**
 
