@@ -1,5 +1,5 @@
 # nettomo - a bento box for the internet 🍱
-### Currently under active development (as of 11 Jul 2020)
+### Currently on hold (21 August 2020)
 > Connect with friends (or make new ones) on a free and open-source communication platform, without having to go outside and interact in the *real* world.
 
 nettomo is a free and open-source general-purpose communication platform for anyone online. Whether you're an individual looking for a place to promote your art or you run an existing online community that needs some extra space, nettomo comes with a bunch of things that lets you adapt the platform to your needs and uses, even if you already use existing apps. 
