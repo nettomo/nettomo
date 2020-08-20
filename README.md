@@ -4,7 +4,7 @@
 
 nettomo is a free and open-source general-purpose communication platform for anyone online. Whether you're an individual looking for a place to promote your art or you run an existing online community that needs some extra space, nettomo comes with a bunch of things that lets you adapt the platform to your needs and uses, even if you already use existing apps. 
 
-- Set up anything from a small announcement board to an entire forum system for you and your pals
+- Set up anything from a small announcement board to an entire forum system for you and your friends
 - Self-publish your creations like artwork or games
 - Communicate and share with others in real-time however you like from awesome IRC-style text chat to reliable VoIP voice chat
 - Organise and manage anything from online gaming guilds to irl events
